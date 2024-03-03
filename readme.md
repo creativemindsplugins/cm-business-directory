@@ -79,6 +79,8 @@ The [Premium versions of the Business Directory Plugin](https://www.cminds.com/w
 * Provide a levels builder to create tiered access or features within the directory.
 * Support shortcodes for embedding categories, tags, and individual business views within posts and pages.
 
+</details>
+
 ## Addons and Extensions
 
 <details><summary> <b>Expand</b> </summary>
