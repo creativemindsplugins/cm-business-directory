@@ -1,4 +1,4 @@
-# CM Business Directory Plugin - Business Listing Directory
+# CM Business Directory Plugin
 
 * Name: CM Business Directory
 * Contributors: CreativeMindsSolutions
