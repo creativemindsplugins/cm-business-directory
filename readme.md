@@ -15,7 +15,7 @@ With it, you can categorize and compile a detailed listing of businesses with ea
 
 ## Installation and Usage
 
-* Move the plugin folder into the /wp-content/plugins/ directory on your site.
+* Move the plugin folder into the `/wp-content/plugins/` directory on your site.
 * Turn on the plugin by selecting it from the ‘Plugins’ section in your WordPress dashboard.
 * Set up your directory preferences, like the number of businesses to display on the main page.
 * Begin by crafting the page for your initial business listing.
