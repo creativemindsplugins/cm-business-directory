@@ -34,16 +34,16 @@ Every business established through the plugin receives a dedicated page that can
 
 The [Premium versions of the Business Directory Plugin](https://www.cminds.com/wordpress-plugins-library/purchase-cm-business-directory-plugin-for-wordpress/) enhance your directory with advanced features: Google Maps integration, WooCommerce and Easy Digital Downloads for payment options, and capabilities for businesses to control their own listings, among other powerful tools.
 
-## Use Cases
+## Free Plan Features
 
 <details><summary> <b>Expand</b> </summary>
 
-* Initiate the process by setting up various categories within your directory to organize businesses according to their industry or niche.
-* Arrange for all the businesses to be showcased in a list format on the directory’s main page, providing a snapshot view of the entire database.
-* Construct individual pages for each business, giving them a dedicated space to highlight their services and offerings.
-* On each business’s page, ensure to include a comprehensive description of what they offer, along with a compelling pitch to attract potential customers.
-* Embed the logo of each business on their respective pages to enhance brand visibility and recognition.
-* Implement a search feature within the directory, allowing users to easily find businesses by name, service, or category, enhancing the overall user experience.
+* Set up classification for the directory.
+* Show all businesses in a list view within the directory.
+* Generate a unique page for each listed business.
+* Add a narrative and sales pitch for every business.
+* Embed the business’s emblem.
+* Offer a directory lookup feature.
 
 </details>
 
