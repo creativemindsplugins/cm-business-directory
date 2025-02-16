@@ -44,6 +44,9 @@ The [Premium versions of the Business Directory Plugin](https://www.cminds.com/w
 * Add a narrative and sales pitch for every business.
 * Embed the business’s emblem.
 * Offer a directory lookup feature.
+* Add business addresses.
+* Display additional business info.
+* Setup Wizard helps configure the plugin quickly and easily.
 
 </details>
 
@@ -67,9 +70,12 @@ The [Premium versions of the Business Directory Plugin](https://www.cminds.com/w
 * Allow users to search for businesses by zip code and geographical location.
 * Include filters to refine search results by business category.
 * Support the use of tags for improved search and categorization.
+* Supports adding custom badges to businesses.
 * Provide a variety of design templates for business and index pages.
 * Feature businesses in search results as a promotional strategy.
 * Enable businesses to be featured or promoted within the directory listings.
+* Display working hours for each business.
+* Extended appearance settings.
 * Integrate WhatsApp for direct communication with businesses.
 * Customize permalink structures for better SEO.
 * Offer editable labels for a personalized directory experience.
